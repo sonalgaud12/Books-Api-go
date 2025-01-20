@@ -64,9 +64,5 @@ This project has been tested and developed on:
 - Linux
 - macOS
 
-## Contribution
-Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-This project is licensed under the MIT License.
 
